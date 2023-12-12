@@ -6,6 +6,6 @@
 > 
 > | Days | Solution |
 > | :--: | :------: |
-> | Day 01 | ? |
-> 
+> | Day 01 | [Solutions](https://github.com/Aryt3/Advent_Of_Code_2023/tree/main/01) |
+> | Day 02 | [Solutions](https://github.com/Aryt3/Advent_Of_Code_2023/tree/main/02) |
 >
